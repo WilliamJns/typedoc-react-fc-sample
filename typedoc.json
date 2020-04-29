@@ -1,0 +1,12 @@
+{
+  "name": "Test Document",
+  "out": "docs",
+  "includeDeclarations": false,
+  "ignoreCompilerErrors": true,
+  "disableOutputCheck": true,
+  "listInvalidSymbolLinks": false,
+  "logger": "none",
+  "inputFiles": [
+    "./src"
+  ]
+}
